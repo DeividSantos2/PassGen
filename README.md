@@ -10,6 +10,9 @@ Um gerador de senhas moderno e responsivo, feito com **HTML, CSS e JavaScript**.
 * Barra de força para indicar a segurança da senha
 * Design responsivo
 
+## Posso Utilizar em Projetos?
+Claro, você pode baixar esse arquivo e utilizá-lo como base para estudo ou projetos.
+
 ##  Resultado do Projeto
 
 ![Image](https://github.com/user-attachments/assets/f8fb4642-9552-42a2-b767-c3917c56c712)

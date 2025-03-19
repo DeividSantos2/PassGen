@@ -12,7 +12,7 @@ Um gerador de senhas moderno e responsivo, feito com **HTML, CSS e JavaScript**.
 
 ## 🎨 Captura de Tela  
 
-![Gerador de Senhas](./screenshot.png)  
+![Image](https://github.com/user-attachments/assets/f8fb4642-9552-42a2-b767-c3917c56c712)
 
 ## 📂 Tecnologias Utilizadas
 

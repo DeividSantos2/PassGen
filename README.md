@@ -2,7 +2,7 @@
 
 Um gerador de senhas moderno e responsivo, feito com **HTML, CSS e JavaScript**. Ele permite criar senhas aleatórias, copiar para a área de transferência e visualizar/ocultar a senha gerada.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 * Gerar senhas seguras com apenas um clique
 * Copiar a senha para a área de transferência
@@ -10,7 +10,7 @@ Um gerador de senhas moderno e responsivo, feito com **HTML, CSS e JavaScript**.
 * Barra de força para indicar a segurança da senha
 * Design responsivo
 
-## 🎨 Captura de Tela  
+##  Captura de Tela  
 
 ![Image](https://github.com/user-attachments/assets/f8fb4642-9552-42a2-b767-c3917c56c712)
 
